@@ -5,6 +5,11 @@
 
 ---
 
+## 🎬 Live Demo Preview
+![Live Demo](./Live%20Demo%20.gif)
+
+---
+
 ## 🌟 Fitur Baru Aplikasi Demo Minimalis & User-Friendly
 1. **🎯 Step-by-Step Interactive Visualizer (Setiap Algoritma)**:
    - **First Fit Decreasing (FFD)**: Menampilkan penempatan item satu per satu, jejak evaluasi kelayakan tiap bin, hingga pembukaan bin baru lengkap dengan *highlight* item yang baru masuk.
